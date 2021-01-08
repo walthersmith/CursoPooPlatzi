@@ -1,2 +1,4 @@
 /diagramas
 workspace.code-workspace
+/__pycache__/*
+*.pyc
