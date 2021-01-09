@@ -1,5 +1,6 @@
 class Payment {
-    constructor(id){
+    constructor(id, amount){
         this.id = id;
+        this.amount = amount;
     }
 }
