@@ -12,6 +12,9 @@ public class Main {
         uberX.setPassenger(3);
         uberX.printDataCar();
 
+        UberVan uberVan = new UberVan("FGH345",new Account("Walther", "AND1234"));
+        uberVan.setPassenger(6);
+        uberVan.printDataCar();
 
         // Car car2 = new Car("QwE567", new Account("Andrea Herrera", "AND1452120"));
         // car2.passenger = 3;
